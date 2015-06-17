@@ -1,2 +1,2 @@
-# guideme
+# GuideMe
 App for blind People
